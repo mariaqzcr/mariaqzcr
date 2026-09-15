@@ -15,16 +15,17 @@ Também estudei:
   - Inglês
   - Informática
   - Técnico em Vendas
+  - ADM
 Status: Sempre estudando e me reinventando 🌱
 ```
 
 
 
-- 💻 Atualmente na faculdade, cursando **Análise e Desenvolvimento de Sistemas**
-- 🗣️ Já estudei **Inglês**, o que me ajuda bastante a entender documentações e conteúdos da área de tecnologia
-- 🖥️ Também fiz um curso de **Informática**, que foi meu primeiro contato mais próximo com o mundo da tecnologia
-- 🤝 Tenho formação **Técnica em Vendas**, o que me deu uma boa base de comunicação e visão de negócio — algo que uso bastante ao pensar em projetos e produtos
-- 🌱 Gosto de unir esse lado mais humano e de comunicação com a lógica da programação
+- 💻 Atualmente na faculdade, cursando **"Análise e Desenvolvimento de Sistemas" na Braz Cubas**
+- 🗣️ Já estudei **Inglês**, o que me ajuda bastante a entender documentações e conteúdos da área de tecnologia.
+- 🖥️ Também fiz um curso de **Informática e ADM**, onde desnvolvi conhecimentos em organização, gestão e tecnologia.
+- 🤝 Tenho formação **Técnico em Vendas**, o que me deu uma boa base de comunicação e visão de negócio — algo que uso bastante ao pensar em projetos e produtos.
+- 🌱 Gosto de unir esse lado mais humano e de comunicação com a lógica da programação.
 
 <br><br>
 
